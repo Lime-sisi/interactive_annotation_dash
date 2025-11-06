@@ -1,0 +1,36 @@
+/* Outer container */
+#graph-container {
+    position: relative;
+    width: 750px;     /* slider positions relative to this box */
+    margin: auto;
+}
+
+#slider-container {
+    position: absolute;
+    left: 139px;    /* how far from the left edge */
+    top: 78px;      /* adjust this to move it up/down. */
+}
+
+#note-text {
+    font-size: 15px;
+    color: gray;
+    margin-top: 3px;
+    margin-left: 70px;
+}
+
+#y-slider .rc-slider-rail {
+    background-color: #b0b0b0;   /* unfilled part */
+}
+
+#y-slider .rc-slider-track {
+    background-color: orange;   /* filled part */
+}
+
+#y-slider .rc-slider-handle {
+    background-color: rgb(16, 1, 1);   /* the circle knob */
+    width: 12px !important;
+    height: 12px !important;
+    margin-left: -3.83px !important;
+}
+
+
