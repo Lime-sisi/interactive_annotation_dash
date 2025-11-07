@@ -6,7 +6,9 @@ An interactive Dash web app inspired by the research paper *“Sample-Oriented T
 
 An interactive data visualization app built with Dash.
 
-![App Screenshot](assets/interactive_annotation.png)
+<p align="center">
+  <img src="assets/interactive_annotation.png" alt="App Screenshot" style="max-width: 60%; height: auto;">
+</p>
 
 
 This project demonstrates one of the interactive annotation ideas discussed in the paper — offering users a way to experiment with interactive annotations when it is difficult to make mathematical inferences from overlapping confidence intervals.
